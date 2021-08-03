@@ -1,0 +1,121 @@
+[
+  {
+    "name": "bigcry.jpg",
+    "description": "Котик смотрит на свот результаты ЕГЭ и пытается не заплакать",
+    "rarity": 0
+  },
+
+  {
+    "name": "bigrussiancat.jpg",
+    "description": "Большой русский кот по имени Шлепа смотрит на тебя с осуждением на фоне арбуза",
+    "rarity": 1
+  },
+
+  {
+    "name": "catwithglasses.jpg",
+    "description": "Идем продавать аллюминий",
+    "rarity": 1
+  },
+
+  {
+    "name": "cutekrinz.jpg",
+    "description": "Произошел кринж",
+    "rarity": 0
+  },
+  
+  {
+    "name": "dinnercat.jpg",
+    "description": "Котики не любят салаты, они любят кусать тебя за жеппу",
+    "rarity": 0
+  },
+
+  {
+    "name": "download.jpg",
+    "description": "Котик не хочет работать, он хочет плакать и смотреть аниме",
+    "rarity": 0
+  },
+
+  {
+    "name": "fatcat.jpg",
+    "description": "Котик бахнув пельменей и ему грустно потому что было невкусно",
+    "rarity": 0
+  },
+
+  {
+    "name": "loadingcat.jpg",
+    "description": "Котик посмотрел на тебя и пытается понять как можно быть таким красивым",
+    "rarity": 1
+  },
+
+  {
+    "name": "longcat.jpg",
+    "description": "Единственное положение, в котором котик не может тебя убить",
+    "rarity": 0
+  },
+
+  {
+    "name": "catok.jpg",
+    "description": "Котик одобряет, но на самом деле не одобряет",
+    "rarity": 0
+  },
+
+  {
+    "name": "mewo.jpg",
+    "description": "Вы испугали котика",
+    "rarity": 0
+  },
+
+  {
+    "name": "nathancat.jpg",
+    "description": "Этот кот делает вид что понимает тебя, но на самом деле ему совершенно не интересно",
+    "rarity": 0
+  },
+
+  {
+    "name": "painfulcat.jpg",
+    "description": "Он кричал мама я не хочу умирать",
+    "rarity": 0
+  },
+
+  {
+    "name": "papichcat.jpg",
+    "description": "Кот стримера папича",
+    "rarity": 0
+  },
+
+  {
+    "name": "popcat.jpg",
+    "description": "Котик ждёт свою польскую корову чтобы вместе спеть милую песню",
+    "rarity": 1
+  },
+
+  {
+    "name": "sadbirthday.jpg",
+    "description": "Никто не пришел на фанвстречу этого котика...",
+    "rarity": 0
+  },
+
+  {
+    "name": "sadcat.jpg",
+    "description": "Котик грустит потому что ему не продали рыбов",
+    "rarity": 1
+  },
+
+  {
+    "name": "sadnessnoise.jpg",
+    "description": "[sadness noise]",
+    "rarity": 1
+  },
+  
+  {
+    "name": "whitecrycat.jpg",
+    "description": "Почему он плачет?",
+    "rarity": 0
+  },
+
+  {
+    "name": "why.jpg",
+    "description": "Котик не понимает зачем живёт в этом мире и каждый день задает себе этот вопрос под музыку linkin park и рыдает",
+    "rarity": 0
+  }
+]
