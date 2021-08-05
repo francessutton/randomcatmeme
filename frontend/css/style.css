@@ -4,6 +4,8 @@ body {
   display: flex;
   min-height: calc(100vh - 100px);
   font-family: sans-serif;
+  background-color: #1d1d21;
+  color:blanchedalmond;
 }
 
 .meow-button {
@@ -11,7 +13,7 @@ body {
   margin: auto;
   height: 100px;
   width: 200px;
-  background-image: url("./buttoncat.jpg");
+  background-image: url("/images/buttoncat.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   border: none;
@@ -19,6 +21,7 @@ body {
 }
 
 .button-text {
+  flex-basis: 50%;
   display: block;
   background-color: black;
   border-radius: 5px;
@@ -28,16 +31,14 @@ body {
   color: white;
 }
 
-.img-container {
+.cat-container {
   display: flex;
-  width: 50%;
-  height: 50%;
+  width: 75%;
 }
 
 .cat-img {
-  width: 50%;
+  width: 600px;
   object-fit: cover;
-  border: none;
 }
 
 .description {

@@ -8,7 +8,7 @@ let randomNumber = function(num) {
 }
 
 let getRandomElementFromFile = function(fileName) {
-  let fileText = fs.readFileSync(__dirname + "/" + fileName, {encoding: "utf-8"});
+  let fileText = fs.readFileSync(__dirname + "/data/" + fileName, {encoding: "utf-8"});
   let data = JSON.parse(fileText);
   let randomIndex = randomNumber(data.length);
   return data[randomIndex];
