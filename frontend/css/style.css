@@ -41,6 +41,7 @@ body {
 }
 
 .cat-container {
+  margin: auto 0;
   display: flex;
   width: 75%;
 }
@@ -51,6 +52,7 @@ body {
 }
 
 .description {
+  margin: auto 0;
   margin-left: 25px;
   font-size: 40px;
 }
