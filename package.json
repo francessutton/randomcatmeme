@@ -4,7 +4,8 @@
   "description": "mewo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node main/index.js",
+    "dev": "nodemon main/index.js"
   },
   "author": "",
   "license": "ISC",
